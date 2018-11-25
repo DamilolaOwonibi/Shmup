@@ -1,6 +1,6 @@
 This game was a dedeication to my dad. It was the first game I made so it meant alot to him it was ok and if you have copied and pasted the code along with the images and sound you will think that too. He took me to the ABAR 2018 Blockchain and AI confrence and that is what inspired me to code, it was a fun experience learning to code and now I can code in Python, HTML, Javascript and CSS. 
 
-Python is a general-purpose bprogramming language. Created by Guido van Rossum and first released in 1991, 
+Python is a general-purpose programming language. Created by Guido van Rossum and first released in 1991, 
 Python has a design philosophy that emphasizes code readability.
 
 HTML(Hypertext Markup Language) is the standard markup language for creating web pages and web applications. With Cascading Style Sheets and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web.
